@@ -1,0 +1,34 @@
+@book{book:1607097,
+   title =     {Music data analysis: foundations and applications},
+   author =    {Jannach, Dietmar; Rudolph, Guenter; Vatolkin, Igor; Weihs, Claus},
+   publisher = {Chapman and Hall/CRC},
+   isbn =      {1498719562,978-1-4987-1956-8,9781498719575,1498719570},
+   year =      {2017},
+   series =    {Series in computer science and data analysis},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=FB04E4B739454F1090787364A52908BD}}
+
+
+@book{book:729125,
+   title =     {Recommender Systems: An Introduction  },
+   author =    {Dietmar Jannach, Markus Zanker, Alexander Felfernig, Gerhard Friedrich},
+   publisher = {Cambridge University Press},
+   isbn =      {0521493366,9780521493369},
+   year =      {2010},
+   series =    {},
+   edition =   {1},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=1A8B19F0BFC4336A213524AC9D858D00}}
+
+
+@book{book:1533043,
+   title =     {Recommender Systems: The Textbook},
+   author =    {Charu C. Aggarwal (auth.)},
+   publisher = {Springer International Publishing},
+   isbn =      {978-3-319-29657-9, 978-3-319-29659-3},
+   year =      {2016},
+   series =    {},
+   edition =   {1},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=0E8197FA707C15D8D76A6FB5B0F84E50}}
