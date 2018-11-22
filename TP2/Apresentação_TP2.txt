@@ -1,0 +1,45 @@
+Apresentação TP2
+
+1ºSlide
+
+-> Pegar no conceito anterior
+-> Escandalo de emissoes
+-> Decidimos abordar este tema
+-> Tem 16 atributos 
+
+
+-----------------------------------
+
+2ºSlide 
+
+-> Vamos usar um modelo igual ao anterior
+-> De forma a fazer o calculo das previsões tivemos de dividir em bins
+-> Dividimos em 4 bins
+
+------------------------------------
+
+3ºSlide 
+
+-> Atributos que escolhemos para fazer estudar no workflow
+-> Falar suavemente deles.
+
+------------------------------------
+
+4ºSlide
+
+-> Parte distinta do workflow é o tratamento dos dados
+-> Retiramos colunas que tinham '?
+-> Retiramos as colunas que nao iamos atribuir ao workflow
+-> Tivemos um normalizer e dava pior resultado
+-> Passar ao autobinner e ao x-partitioner
+
+------------------------------------
+
+5ºSlide
+
+-> Resultados obtidos
+-> Falar um pouco do erro sem os bins!
+
+------------------------------------
+
+FIMMM
